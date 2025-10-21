@@ -1,0 +1,1 @@
+I make a Login page for a Travel booking app name "Yatra". I choose Blue shade because this colour shows trust.I choose Lato font in my whole task but use different sizes and style for maintaining hierarchy.
